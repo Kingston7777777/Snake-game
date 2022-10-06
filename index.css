@@ -1,0 +1,154 @@
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid;
+    border-color: white;
+}
+
+body{
+    background-color: black;
+}
+#scoreText{
+    font-family: "Permanent Marker", cursive;
+    font-size: 70px;
+    color: chartreuse;
+}
+
+#resetBtn{
+    font-family: "Permanent Marker", cursive;
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#playBtn{
+    font-family: "Permanent Marker", cursive;
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+@media (max-width: 634px){
+    #gameContainer{
+        text-align: center;
+    }
+    #gameBoard{
+        border: 3px solid;
+        border-color: white;
+    }
+    
+    body{
+        background-color: black;
+    }
+    #scoreText{
+        font-family: "Permanent Marker", cursive;
+        font-size: 20px;
+        color: chartreuse;
+    }
+    
+    #resetBtn{
+        font-family: "Permanent Marker", cursive;
+        font-size: 10px;
+        width: 90px;
+        height: 30px;
+        border: 4px solid;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    #playBtn{
+        font-family: "Permanent Marker", cursive;
+        font-size: 10px;
+        width: 90px;
+        height: 30px;
+        border: 4px solid;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    
+}
+
+
+@media (max-width: 374px){
+    #gameContainer{
+        text-align: center;
+    }
+    #gameBoard{
+        border: 3px solid;
+        border-color: white;
+    }
+    
+    body{
+        background-color: black;
+    }
+    #scoreText{
+        font-family: "Permanent Marker", cursive;
+        font-size: 15px;
+        color: chartreuse;
+    }
+    
+    #resetBtn{
+        font-family: "Permanent Marker", cursive;
+        font-size: 8px;
+        width: 70px;
+        height: 30px;
+        border: 4px solid;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+    #playBtn{
+        font-family: "Permanent Marker", cursive;
+        font-size: 8px;
+        width: 70px;
+        height: 30px;
+        border: 4px solid;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+    
+}
+
+
+@media (max-width: 326px){
+    #gameContainer{
+        text-align: center;
+    }
+    #gameBoard{
+        border: 3px solid;
+        border-color: white;
+    }
+    
+    body{
+        background-color: black;
+    }
+    #scoreText{
+        font-family: "Permanent Marker", cursive;
+        font-size: 10px;
+        color: chartreuse;
+    }
+    
+    #resetBtn{
+        font-family: "Permanent Marker", cursive;
+        font-size: 5px;
+        width: 70px;
+        height: 30px;
+        border: 4px solid;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    #playBtn{
+        font-family: "Permanent Marker", cursive;
+        font-size: 5px;
+        width: 70px;
+        height: 30px;
+        border: 4px solid;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+}
